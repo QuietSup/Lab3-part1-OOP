@@ -247,7 +247,7 @@ class Event:
 
 
 night = Event('night', 225, 1000, datetime.date(2022, 12, 30))
-identify('Jimin', 'Madf', 'Uth', 26, False, night)
+identify('Fintan', 'Redmond', 'Ihorovych', 26, False, night)
 
 print(night)
 print(night.deserialization())
